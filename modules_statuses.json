@@ -1,0 +1,11 @@
+{
+    "Product": true,
+    "Frontend": true,
+    "Pos": true,
+    "Client": true,
+    "Order": true,
+    "Report": true,
+    "User": true,
+    "Account": true,
+    "Merchant": true
+}
